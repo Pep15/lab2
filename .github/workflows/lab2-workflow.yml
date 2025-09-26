@@ -11,9 +11,6 @@ on:
         description: 'Enter a custom message'
         type: string
         required: true
-      
-
-
 jobs:
   job1:
     runs-on: ubuntu-latest
